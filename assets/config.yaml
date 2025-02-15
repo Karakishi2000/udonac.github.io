@@ -1,6 +1,6 @@
 backend:
   mode: skyway2023
-  url: https://104900f9-autumn-mud-8991.karakishi2000.workers.dev/
+  url: https://0f6b290e-autumn-mud-8991.karakishi2000.workers.dev/
 webrtc:
   key: ee04a04e-36da-4aae-8578-8d545e147c0f  #Your SkyWay API key
   config: #未使用
