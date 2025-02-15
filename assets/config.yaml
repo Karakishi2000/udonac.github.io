@@ -1,5 +1,7 @@
 backend:
   mode: skyway2023
   url: https://udonarium-backend.karakishi2000.workers.dev
+webrtc: #非推奨（旧SkyWay）
+  key: aaaaaaaa-bbbb-ccccc-dddd-eeeeeeeeeeee #[deprecated] Your (old) SkyWay API key
 app: #未使用
 dice: #未使用
