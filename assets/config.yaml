@@ -1,5 +1,5 @@
 backend:
   mode: skyway2023
-  url: https://0f6b290e-autumn-mud-8991.karakishi2000.workers.dev/
+  url: https://udonarium-backend.karakishi2000.workers.dev
 app: #未使用
 dice: #未使用
