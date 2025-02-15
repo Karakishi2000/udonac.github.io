@@ -1,7 +1,9 @@
-backend:
-  mode: skyway2023
-  url: https://udonarium-backend.karakishi2000.workers.dev
-webrtc: #非推奨（旧SkyWay）
-  key: aaaaaaaa-bbbb-ccccc-dddd-eeeeeeeeeeee #[deprecated] Your (old) SkyWay API key
+webrtc:
+  key: ee04a04e-36da-4aae-8578-8d545e147c0f  #Your SkyWay API key
+  config: #未使用
+    iceServers: #未使用
+      - url: stun:stun.skyway.io:3478
+      - url: turn:homeo@turn.bistri.com:80
+        credential: homeo
 app: #未使用
 dice: #未使用
